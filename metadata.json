@@ -1,0 +1,8 @@
+{
+    "uuid": "decimal-time@dancxjo.github.io",
+    "name": "Decimal Time",
+    "description": "Display the current time in various decimal-time formats.",
+    "shell-version": [ "3.38", "40" ],
+    "url": "https://github.com/dancxjo/decimal-time.git",
+    "version": 1
+}
